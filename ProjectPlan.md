@@ -10,6 +10,8 @@ Task Estimation: | All 4 as Group
 Code Standards: | Emma and David
 Code Review :   | Niamh and Gillian
 
+
+
 2. David creates the master branch and also creates the develop branch 
     - Add the rest of us as collaboters, where each of us accept the invitation.
 
@@ -47,3 +49,5 @@ Code Review :   | Niamh and Gillian
 
 10. On completion, have a group retrospective. Identify what went well and what could have been done better.
 
+
+***
