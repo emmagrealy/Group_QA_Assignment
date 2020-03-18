@@ -10,7 +10,8 @@ Task Estimation: | All 4 as Group
 Code Standards: | Emma and David
 Code Review :   | Niamh and Gillian
 
-2. David creates the master branch and also creates the develop branch
+2. David creates the master branch and also creates the develop branch 
+    - Add the rest of us as collaboters, where each of us accept the invitation.
 
 3. The other team members then fork Davids source respository.
 
