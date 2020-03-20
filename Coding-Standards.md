@@ -1,15 +1,21 @@
-Clear and meaningful variable names.
--	Good variable names increase readability of code for users.
--	Use comments to explain logic in code.
--	Helps make long lasting code.
--	Unclear names make unclear code, Avoid (temp, data, p1)
--	If unsure use Hungarian notation for guidelines.
--	Avoid synonyms in naming conventions
+Clear and meaningful variable names
+
+Meaningful variable names help any user to understand and follow the code easily. Its best to avoid using ambiguous names such as “temp, data, etc”, Unclear names make unclear code! Another way to increase legibility and aid new users to understand the code is by making concise comments around any logic that may not be intuitive.
+
+Tips when naming variables
+•	If you are unsure about what to use when naming variables, its common practice to use the Hungarian Notation for a guideline.
+•	Avoid using synonyms for name as the meaning may be misinterpreted.
+•	Try not to use digits in variable names.
+
 Well documented code
--	Well documented code is often reused due to its clear definition and explanation.
--	Good documentation encourages maintainability, understandability and legibility.
--	Can help define expected outcome of code, and in turn help debug errors that may arise.
--	Helps make sure the code is staying true to the defined scope.
+
+Well documented code is often reused, due to its clear definition or spec. It also encourages maintainability as code that is written well can be maintained well. The understandability and legibility of code is also very important, and good documentation of the codes functionality, scope and expected results can help promote and maintain this. It can also aid in the process of debugging the code; by having a well-defined spec and documentation it can help us discover bugs and unusual behaviour by comparing it to the expected behaviour.
+
+Tips for documenting code
+•	The documentation should include the expected outcome of the feature/code.
+•	The document should define the purpose of the feature.
+•	The document should list any classes that may be affected by the change.
+
 Indentation
 -	Good white spacing helps to improve readability.
 -	Nested blocks should be indented.
