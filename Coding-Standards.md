@@ -17,16 +17,30 @@ Tips for documenting code
 •	The document should list any classes that may be affected by the change.
 
 Indentation
--	Good white spacing helps to improve readability.
--	Nested blocks should be indented.
--	Multiple conditionals should be indented to avoid confusing brackets.
+
+Good spacing can help improve the readability of the code. It also can help view the code in a more linear fashion. The alignment of methods and blocks can help make nested statements easier to follow.
+
+Tips for Indentation
+•	Allow white spacing between methods and variables.
+•	Nested blocks should be indented.
+•	Multiple conditionals should be indented to avoid confusing brackets.
+
 Error Handling
--	Error conditional functions should always return something, to aid the user debugging.
--	Provide useful error messages in your code, this helps identify the problem regardless if the error is due to user input or developer incompetence.
--	Console log unexpected behaviour to help aid others to understand the code.
+
+Error handling is key when ensuring good coding practices. It provides assurance when unexpected behaviour arises in code. Good error handling should also be able to account for user error and help provide a meaningful message to the use that will aid them with the problem.
+
+Tips for Error Handling
+•	Error conditional functions should always return something, to aid the user debugging.
+•	Provide useful error messages in your code, this helps identify the problem regardless if the error is due to user input or developer incompetence.
+•	Console log unexpected behaviour to help aid others to understand the code.
+
 Testing
--	Write tests before development. This will help the developer to stick to the spec and helps make the code measurable and adhere to the expected behaviour.
--	Make sure that the test coverage covers the code that you have developed. And that all conditionals paths are accounted for.
--	Whenever implementing a new piece of code, run ALL test suits to make sure that the code change doesn’t impact other areas of the application.
--	If the code has any specific behaviour, make sure this is tested.
--	Testing should be done with test data and real data.
+
+Testing is a large part of coding standards; testing allows us to make sure that the code stays true to the defined spec and allows us to identify and handle any strange behaviour of the code. Testing can also be used as a criteria that the code should meet, for example, when developing a feature it should be developed in such a way that the code written will pass the tests. This will help the code adhere to the given spec and discourage “spaghetti code” throughout the application.
+
+Tips for Testing 
+•	Write tests before development. This will help the developer to stick to the spec and helps make the code measurable and adhere to the expected behaviour.
+•	Make sure that the test coverage covers the code that you have developed. And that all conditionals paths are accounted for.
+•	Whenever implementing a new piece of code, run ALL test suits to make sure that the code change doesn’t impact other areas of the application.
+•	Testing should be done with test data and real data.
+
