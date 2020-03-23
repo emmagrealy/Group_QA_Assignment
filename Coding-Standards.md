@@ -34,7 +34,7 @@ Tips for Error Handling
 •	Provide useful error messages in your code, this helps identify the problem regardless if the error is due to user input or developer incompetence.
 •	Console log unexpected behaviour to help aid others to understand the code.
 
-Testing
+Testing 
 
 Testing is a large part of coding standards; testing allows us to make sure that the code stays true to the defined spec and allows us to identify and handle any strange behaviour of the code. Testing can also be used as a criteria that the code should meet, for example, when developing a feature it should be developed in such a way that the code written will pass the tests. This will help the code adhere to the given spec and discourage “spaghetti code” throughout the application.
 
