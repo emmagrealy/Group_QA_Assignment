@@ -20,7 +20,7 @@ Poor coding standards can have a serious implication on the software performance
 -	Unclear names make unclear code, Avoid (temp, data, p1)
 -	If unsure use Hungarian notation for guidelines.
 -	Avoid synonyms in naming 
-![Variable Name Examples](C:\Users\Emma\Pictures\CSImages\EG-Name)
+![Variable Name Examples](https://present5.com/presentation/6959192061c9a298410d3d3fc2b8e790/image-5.jpg)
 
 
 ### Well documented code
