@@ -28,7 +28,7 @@ Poor coding standards can have a serious implication on the software performance
 -	Good documentation encourages maintainability, understandability and legibility.
 -	Can help define expected outcome of code, and in turn help debug errors that may arise.
 -	Helps make sure the code is staying true to the defined scope.
-![Code Documentation Example](https://cdn.tutsplus.com/net/uploads/legacy/516_code/readable_code_1.png)
+![Code Documentation Example](https://gitdemo.readthedocs.io/en/latest/_images/doc-code-documentation-inline.png)
 
 
 ### Indentation
@@ -52,5 +52,5 @@ Poor coding standards can have a serious implication on the software performance
 -	Whenever implementing a new piece of code, run ALL test suits to make sure that the code change doesn’t impact other areas of the application.
 -	If the code has any specific behaviour, make sure this is tested.
 -	Testing should be done with test data and real data.
-![Testing Example](https://qph.fs.quoracdn.net/main-qimg-89a2179ac50965232d0cb59ea819d290)
+![Testing Example 1](https://qph.fs.quoracdn.net/main-qimg-89a2179ac50965232d0cb59ea819d290)
 
