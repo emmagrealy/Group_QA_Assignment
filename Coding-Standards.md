@@ -44,3 +44,9 @@ Tips for Testing
 •	Whenever implementing a new piece of code, run ALL test suits to make sure that the code change doesn’t impact other areas of the application.
 •	Testing should be done with test data and real data.
 
+Links used ---
+https://en.wikipedia.org/wiki/Hungarian_notation
+https://javarevisited.blogspot.com/2014/10/10-java-best-practices-to-name-variables-methods-classes-packages.html
+https://www.perforce.com/blog/qac/9-coding-standards-best-practices
+https://guide.freecodecamp.org/cplusplus/clean-code-guidelines/
+https://www.geeksforgeeks.org/coding-standards-and-guidelines/
