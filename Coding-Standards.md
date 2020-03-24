@@ -12,14 +12,15 @@ Inconsistent code means it is vulnerable to attacks. Inconsisten code can mean i
 Poor coding standards can have a serious implication on the software performance. Performance issues can have an implcation on an abundance of things. It can compramise server response times, reusability, user interaction with the site and many more.
 
 
-## Coding standard examples
+## Coding Standards with examples
 ### Clear and meaningful variable names.
 -	Good variable names increase readability of code for users.
 -	Use comments to explain logic in code.
 -	Helps make long lasting code.
 -	Unclear names make unclear code, Avoid (temp, data, p1)
 -	If unsure use Hungarian notation for guidelines.
--	Avoid synonyms in naming conventions
+-	Avoid synonyms in naming 
+![Variable Name Examples](C:\Users\Emma\Pictures\CSImages\EG-Name)
 
 
 ### Well documented code
