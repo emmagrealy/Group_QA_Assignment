@@ -28,18 +28,22 @@ Poor coding standards can have a serious implication on the software performance
 -	Good documentation encourages maintainability, understandability and legibility.
 -	Can help define expected outcome of code, and in turn help debug errors that may arise.
 -	Helps make sure the code is staying true to the defined scope.
+![Code Documentation Example](https://cdn.tutsplus.com/net/uploads/legacy/516_code/readable_code_1.png)
 
 
 ### Indentation
 -	Good white spacing helps to improve readability.
 -	Nested blocks should be indented.
 -	Multiple conditionals should be indented to avoid confusing brackets.
+![Indentation Example](https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ccd3815d-299e-490e-81ca-4fb02c8209b9/cleancode-3.png)
 
 
 ### Error Handling
 -	Error conditional functions should always return something, to aid the user debugging.
 -	Provide useful error messages in your code, this helps identify the problem regardless if the error is due to user input or developer incompetence.
 -	Console log unexpected behaviour to help aid others to understand the code.
+![Error Handling 1](https://res.cloudinary.com/dchysltjf/image/upload/f_auto,q_auto:best/v1574436354/error3.png)
+![Error Handling 2](https://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2011/12/error-handling-04.png)
 
 
 ### Testing
@@ -48,5 +52,5 @@ Poor coding standards can have a serious implication on the software performance
 -	Whenever implementing a new piece of code, run ALL test suits to make sure that the code change doesn’t impact other areas of the application.
 -	If the code has any specific behaviour, make sure this is tested.
 -	Testing should be done with test data and real data.
-
+![Testing Example](https://images.slideplayer.com/25/8082700/slides/slide_24.jpg)
 
