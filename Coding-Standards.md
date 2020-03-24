@@ -52,5 +52,5 @@ Poor coding standards can have a serious implication on the software performance
 -	Whenever implementing a new piece of code, run ALL test suits to make sure that the code change doesn’t impact other areas of the application.
 -	If the code has any specific behaviour, make sure this is tested.
 -	Testing should be done with test data and real data.
-![Testing Example](https://images.slideplayer.com/25/8082700/slides/slide_24.jpg)
+![Testing Example](https://qph.fs.quoracdn.net/main-qimg-89a2179ac50965232d0cb59ea819d290)
 
