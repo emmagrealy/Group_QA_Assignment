@@ -57,7 +57,6 @@ Members of a project will be motivated by knowing other members of the team revi
 ![Testing Example 1](https://qph.fs.quoracdn.net/main-qimg-89a2179ac50965232d0cb59ea819d290)
 
 Links used ---
-- https://en.wikipedia.org/wiki/Hungarian_notation
 - https://javarevisited.blogspot.com/2014/10/10-java-best-practices-to-name-variables-methods-classes-packages.html
 - https://www.perforce.com/blog/qac/9-coding-standards-best-practices
 - https://guide.freecodecamp.org/cplusplus/clean-code-guidelines/
