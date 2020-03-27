@@ -11,6 +11,8 @@ Inconsistent code means it is vulnerable to attacks. Inconsisten code can mean i
 ### 2. Performance Issues
 Poor coding standards can have a serious implication on the software performance. Performance issues can have an implcation on an abundance of things. It can compramise server response times, reusability, user interaction with the site and many more.
 
+### 3. Motivation
+Members of a project will be motivated by knowing other members of the team reviewing their commits. This will ensure that members of the team pay attention to their own code and also thoroughly review their team members code. Recognition of coding standards from your peers is a source of pride and achievement for many programmers.
 
 ## Coding Standards with examples
 ### Clear and meaningful variable names.
@@ -55,8 +57,12 @@ Poor coding standards can have a serious implication on the software performance
 ![Testing Example 1](https://qph.fs.quoracdn.net/main-qimg-89a2179ac50965232d0cb59ea819d290)
 
 Links used ---
-https://en.wikipedia.org/wiki/Hungarian_notation
-https://javarevisited.blogspot.com/2014/10/10-java-best-practices-to-name-variables-methods-classes-packages.html
-https://www.perforce.com/blog/qac/9-coding-standards-best-practices
-https://guide.freecodecamp.org/cplusplus/clean-code-guidelines/
-https://www.geeksforgeeks.org/coding-standards-and-guidelines/
+- https://en.wikipedia.org/wiki/Hungarian_notation
+- https://javarevisited.blogspot.com/2014/10/10-java-best-practices-to-name-variables-methods-classes-packages.html
+- https://www.perforce.com/blog/qac/9-coding-standards-best-practices
+- https://guide.freecodecamp.org/cplusplus/clean-code-guidelines/
+- https://www.geeksforgeeks.org/coding-standards-and-guidelines/
+- https://www.baeldung.com/java-clean-code?fbclid=IwAR2Ej9gL8NhNoI8GBWwNf-JxNRq_cSB7tN-HNxhttwOr46Xug1z1FGmEJUY
+- https://blog.codacy.com/why-coding-standards-matter/
+- https://medium.com/palantir/code-review-best-practices-19e02780015f
+- https://javarevisited.blogspot.com/2014/10/10-java-best-practices-to-name-variables-methods-classes-packages.html?fbclid=IwAR1iY6F6UNmeTkJNEDyUjrj2wrxtmHZK2K8lDLZrjl4VPj8QWSlQIyyGbiA
