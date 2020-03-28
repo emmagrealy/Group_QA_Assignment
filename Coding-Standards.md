@@ -64,8 +64,5 @@ Links used ---
 - https://javarevisited.blogspot.com/2014/10/10-java-best-practices-to-name-variables-methods-classes-packages.html
 - https://www.perforce.com/blog/qac/9-coding-standards-best-practices
 - https://guide.freecodecamp.org/cplusplus/clean-code-guidelines/
-- https://www.geeksforgeeks.org/coding-standards-and-guidelines/
-- https://www.baeldung.com/java-clean-code?fbclid=IwAR2Ej9gL8NhNoI8GBWwNf-JxNRq_cSB7tN-HNxhttwOr46Xug1z1FGmEJUY
 - https://blog.codacy.com/why-coding-standards-matter/
-- https://medium.com/palantir/code-review-best-practices-19e02780015f
 - https://javarevisited.blogspot.com/2014/10/10-java-best-practices-to-name-variables-methods-classes-packages.html?fbclid=IwAR1iY6F6UNmeTkJNEDyUjrj2wrxtmHZK2K8lDLZrjl4VPj8QWSlQIyyGbiA
