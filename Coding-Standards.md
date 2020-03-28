@@ -5,15 +5,12 @@ It is not easy to produce high quality code, consistent efforts and focus is req
 Coding standards involve a series of procedures for each programming language and specifying a programming style, methods and procedures. These are the essential attributes of software development. By implementing coding standards it ensures each member of a project are following the same guidelines, code can be easily understood and consistency is maintained. 
 
 ## Why do we have Coding Standards?
+
 ### 1. Security Concerns 
 Inconsistent code means it is vulnerable to attacks. Inconsistent code can mean it contains bugs or errors within the logic. Most of these problems arise due to faulty programming code which can be as a result of poor coding practices. 
 
 ### 2. Performance Issues
 Poor coding standards can have a serious implication on the software performance. Performance issues can have an implication on an abundance of things. It can compromise server response times, reusability, user interaction with the site and many more.
-
-### 3. Motivation
-Members of a project will be motivated by knowing other members of the team reviewing their commits. This will ensure that members of the team pay attention to their own code and also thoroughly review their team members code. Recognition of coding standards from your peers is a source of pride and achievement for many programmers.
-
 
 ### 3. Motivation
 Members of a project will be motivated by knowing other members of the team reviewing their commits. This will ensure that members of the team pay attention to their own code and also thoroughly review their team members code. Recognition of coding standards from your peers is a source of pride and achievement for many programmers.
