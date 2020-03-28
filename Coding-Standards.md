@@ -2,7 +2,7 @@
 Coding standards have been introduced into the Software Industry to try and help have a positive impact on businesses. Writing clean code is a matter of personal habit as much as it's a matter of skill.
 It is not easy to produce high quality code, consistent efforts and focus is required by all members of the team to ensure their tasks are completed to an acceptable standard.
 
-Coding standards involve a series of procedures for each programming language and specifying a programming style, methods and procedures. These are the essential attributes of software development. By implementing coding standards it ensures every member of a project are following the same guidelines, code can be easily understood and consistency is maintained. 
+Coding standards involve a series of procedures for each programming language and specifying a programming style, methods and procedures. These are the essential attributes of software development. By implementing coding standards it ensures each member of a project are following the same guidelines, code can be easily understood and consistency is maintained. 
 
 ## Why do we have Coding Standards?
 ### 1. Security Concerns 
@@ -58,7 +58,7 @@ Members of a project will be motivated by knowing other members of the team revi
 -	Whenever implementing a new piece of code, run ALL test suits to make sure that the code change doesn’t impact other areas of the application.
 -	If the code has any specific behaviour, make sure this is tested.
 -	Testing should be done with test data and real data.
-![Testing Example 1](https://qph.fs.quoracdn.net/main-qimg-89a2179ac50965232d0cb59ea819d290)
+![Testing Example](https://qph.fs.quoracdn.net/main-qimg-89a2179ac50965232d0cb59ea819d290)
 
 Links used ---
 - https://javarevisited.blogspot.com/2014/10/10-java-best-practices-to-name-variables-methods-classes-packages.html
