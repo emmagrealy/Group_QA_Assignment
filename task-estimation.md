@@ -4,4 +4,5 @@ Task Estimation involves the process of estimating and predicting the total effo
 
 ## Resources
 - https://fortegrp.com/how-to-estimate-testing-time/ 
-- https://www.guru99.com/an-expert-view-on-test-estimation.html
+- https://www.guru99.com/an-expert-view-on-test-estimation.html  
+
