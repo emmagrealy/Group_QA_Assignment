@@ -47,14 +47,16 @@
 # Testing Tasks
 **_Testing Tasks_** Firstly involves research of the project. At this stage of the project members read through and analyse tje project documentation. From doing this, it will allow the team to get a good overview of the project and discuss and resolve and questions or problems that may arise. After this plannig is done we can the move on into thee flow of testing our tasks, this is done in various ways to ensure that there is an adherent flow to the development and logic surrounding the tests that are being written.
 
-# Testing Tasks Techniques
+    Testing Tasks Techniques
 **1) Analysis of products:** This allows the users to understand the product that the tests are being developed for. EG: Who uses the product ?, What problem does the product solve ?, What gives the product value ?, How does the product work ?
 **2) Design a test strategy:** This document is important when writing tests as it defines two main points crucial to test development, the Testing objectives and the determination off the costs and efforts needed.
 **3) Define Test Objective:** is used to define the overall direction and goal for the tests, this helps keep the tests focused to the core functionality of the product.
-# Conducting and evaluating tests
+    
+    Conducting and evaluating tests
 This is done when tests are being carried out, when conducting test suites, the data that you use to test is as important as the test itself, depending on the data inputted into a test it may change the expected behaviour of the test. It is also important to make sure that the test are ran in both isolation and as a suit, this will make sure that the tests written are comprehensive and cover different types of behaviors of the application.
-# Building Test Case
-WWhen building test cases it is important to be clear and concise. This means that the test cases should be clear and to the point, the steps and all relevant data to carry out the test should also be included within the spec. The expected result from the test should also be defined in the case, as this may help other users understand the logic of the test and also identify unexpected behaviour. Assumptions and preconceptions should be included in the test case, as this will help to assist new users when establishing any preconditions required for the test.
+    
+    Building Test Case
+When building test cases it is important to be clear and concise. This means that the test cases should be clear and to the point, the steps and all relevant data to carry out the test should also be included within the spec. The expected result from the test should also be defined in the case, as this may help other users understand the logic of the test and also identify unexpected behaviour. Assumptions and preconceptions should be included in the test case, as this will help to assist new users when establishing any preconditions required for the test.
 
 
 
