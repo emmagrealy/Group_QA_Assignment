@@ -46,3 +46,9 @@
 ## Resources
 - https://www.softwaretestinghelp.com/agile-estimation-techniques/ 
 - https://www.guru99.com/an-expert-view-on-test-estimation.html 
+
+# Testing Tasks
+**_Testing Tasks_** Firstly involves research of the project. At this stage of the project members read through and analyse tje project documentation. From dooing this, it will allow the team to get a good overview of the project and discuss and resolve and questions or problems that may arise. After this plannig is done we can the move on into thee flow of testing our tasks, this is done in various ways to ensure that there is an adherent flow to the development and logic surrounding the tests that are being written.
+
+# Testing Tasks Techniques
+
