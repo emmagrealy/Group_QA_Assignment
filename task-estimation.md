@@ -2,10 +2,28 @@
 
 **_Task Estimation_** is the process of estimating and predicting the total effort that’s required to complete a task and to get it to a stage where the product is ready to be deliver to the Customer. Estimations are based on assumptions and imperfect knowledge, most estimations have uncertainty. However, the objective of task estimation is to get an estimate of the time, money and number of people required to finish the defined task. 
 
- 
+## Steps Involved
+
+![StepsInvoled](task-estimation-step.png)
+In an Agile environment the Epic would be broken into User Story which would then be estimated into points and assigned to a team member.  
+
+## What to Estimate
+
+![WhatToEstimate](what_to_estimate.png)
+
+ What to Estimate: | Explanation: 
+-------------- | -------------
+Resources:  | Every project need resources in order to complete the given task. These can be people, equipment, funding or anything that you need in order to complete the task defined. Must also take in the availability of these resources during the time period.
+Time:  | This is the main primary resource. Within every task you are working towards a deadline. Factors such as frontend/ backend difficulty, human skills, deployment difficulty and requirement specification should be considered in order to reduce and factor time in for the unknowns when trying to accurately estimate the time for a task.
+Cost:    | Projects Budget - The financial commitment necessary for completing a project successfully, after taking all factors into account. 
+Human Resources:    | Factors such as the knowledge and developer experience of team members, is crucial to take into consideration while making an estimation. 
+
+
 ## Task Estimation Techniques 
 
-**_Planning techniques_** are essential for Test estimation. A template pattern can be used to guarantee requirements and other aspects of the project are met. Some of the most common and important techniques for test estimation are: 
+**_Planning techniques_** are essential for Test Estimation. A template pattern can be used to guarantee requirements and other aspects of the project are met. 
+
+**Some of the most common and important techniques for test estimation are:**
 
 **1) Test Point estimation:** this is used across industry in testing as it is a simple and easily understandable estimation technique. Iterative phases and simplicity are the most important features of this technique. 
 
@@ -36,8 +54,8 @@
 **7) Documentation and tracking of the estimation records:** All the relevant information to the estimation process should be documented.
 
 **8) Activities which are required to be performed during the test estimation process:**
-- Organize the team that would perform the estimations - best to have previous experience
-- Break the project down into project stages and ensuing essential activities 
+- Organize the team that would perform the estimations - best to have pervious experience
+- Break the project down into project stages and ensuing essential activities. This is when a agile team will delegate story points to any activities that need to be completed.
 - Compute the estimations based upon previous projects and experience of members
 - Prioritize the possible threats and come up with the responses to tackle those potential risks
 - Review and document the key part of the work
