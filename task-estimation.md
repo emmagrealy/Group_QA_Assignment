@@ -5,7 +5,7 @@
 ## Steps Involved
 
 ![StepsInvoled](task-estimation-step.png)
-  In an Agile environment the Epic would be broken into User Story which would then be estimated into points and assigned to a team member.  
+  In an Agile environment the Epic would be broken into User Stories which would then be estimated into points and assigned to a team member.  
 
 ## What to Estimate
 
@@ -24,7 +24,7 @@ Human Resources:    | Factors such as the knowledge and developer experience of 
 **_Planning techniques_** are essential for Test Estimation. A template pattern can be used to guarantee requirements and other aspects of the project are met. 
 
 
-**Techniques** |**for Estimation**
+**Techniques for Estimations** |**Explanation**
 ------------ | -------------
  **Test Point Estimation** |  In this method, we deconstruct the project into its very basic elementary components and estimate time for each of them. 
 **Use-Case Point estimation:** |  Estimation on the use cases where the unadjusted actor weights and unadjusted use case weights are used to determine the software testing estimation. 
@@ -88,3 +88,4 @@ When verifying the fixes that have been made, it is important to preform a root 
 ## Resources
 - https://www.softwaretestinghelp.com/agile-estimation-techniques/ 
 - https://www.guru99.com/an-expert-view-on-test-estimation.html 
+- https://fortegrp.com/how-to-estimate-testing-time/
