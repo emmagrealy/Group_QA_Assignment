@@ -2,10 +2,28 @@
 
 **_Task Estimation_** is the process of estimating and predicting the total effort that’s required to complete a task and to get it to a stage where the product is ready to be deliver to the Customer. Estimations are based on assumptions and imperfect knowledge, most estimations have uncertainty. However, the objective of task estimation is to get an estimate of the time, money and number of people required to finish the defined task. 
 
- 
+## Steps Involved
+
+![StepsInvoled](task-estimation-step.png)
+In an Agile environment the Epic would be broken into User Story which would then be estimated into points and assigned to a team member.  
+
+## What to Estimate
+
+![WhatToEstimate](what_to_estimate.png)
+
+ What to Estimate: | Explanation: 
+-------------- | -------------
+Resources:  | Every project need resources in order to complete the given task. These can be people, equipment, funding or anything that you need in order to complete the task defined. Must also take in the availability of these resources during the time period.
+Time:  | This is the main primary resource. Within every task you are working towards a deadline. Factors such as frontend/ backend difficulty, human skills, deployment difficulty and requirement specification should be considered in order to reduce and factor time in for the unknowns when trying to accurately estimate the time for a task.
+Cost:    | Projects Budget - The financial commitment necessary for completing a project successfully, after taking all factors into account. 
+Human Resources:    | Factors such as the knowledge and developer experience of team members, is crucial to take into consideration while making an estimation. 
+
+
 ## Task Estimation Techniques 
 
-**_Planning techniques_** are essential for Test estimation. A template pattern can be used to guarantee requirements and other aspects of the project are met. Some of the most common and important techniques for test estimation are: 
+**_Planning techniques_** are essential for Test Estimation. A template pattern can be used to guarantee requirements and other aspects of the project are met. 
+
+**Some of the most common and important techniques for test estimation are:**
 
 **1) Test Point estimation:** this is used across industry in testing as it is a simple and easily understandable estimation technique. Iterative phases and simplicity are the most important features of this technique. 
 
@@ -45,11 +63,19 @@
 
 
 # Testing Tasks
-**_Testing Tasks_** Firstly involves research of the project. At this stage of the project members read through and analyse tje project documentation. From doing this, it will allow the team to get a good overview of the project and discuss and resolve and questions or problems that may arise. After this plannig is done we can the move on into thee flow of testing our tasks, this is done in various ways to ensure that there is an adherent flow to the development and logic surrounding the tests that are being written.
+**_Testing Tasks_** Firstly involves research of the project. At this stage of the project members read through and analyse the project documentation. From doing this, it will allow the team to get a good overview of the project and discuss and resolve and questions or problems that may arise. After this plannig is done we can the move on into thee flow of testing our tasks, this is done in various ways to ensure that there is an adherent flow to the development and logic surrounding the tests that are being written.
 
     Testing Tasks Techniques
-**1) Analysis of products:** This allows the users to understand the product that the tests are being developed for. EG: Who uses the product ?, What problem does the product solve ?, What gives the product value ?, How does the product work ?
+**1) Analysis of products:** This allows the users to understand the product that the tests are being developed for. 
+
+Example:
+- Who uses the product ?
+- What problem does the product solve ?
+- What gives the product value ? 
+- How does the product work ?
+
 **2) Design a test strategy:** This document is important when writing tests as it defines two main points crucial to test development, the Testing objectives and the determination off the costs and efforts needed.
+
 **3) Define Test Objective:** is used to define the overall direction and goal for the tests, this helps keep the tests focused to the core functionality of the product.
     
     Conducting and evaluating tests
@@ -57,7 +83,6 @@ This is done when tests are being carried out, when conducting test suites, the 
     
     Building Test Case
 When building test cases it is important to be clear and concise. This means that the test cases should be clear and to the point, the steps and all relevant data to carry out the test should also be included within the spec. The expected result from the test should also be defined in the case, as this may help other users understand the logic of the test and also identify unexpected behaviour. Assumptions and preconceptions should be included in the test case, as this will help to assist new users when establishing any preconditions required for the test.
-
 
 
 ## Resources
