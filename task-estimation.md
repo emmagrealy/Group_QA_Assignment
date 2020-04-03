@@ -52,7 +52,7 @@ Human Resources:    | Factors such as the knowledge and developer experience of 
 **7) Documentation and tracking of the estimation records:** All the relevant information to the estimation process should be documented.
 
 **8) Activities which are required to be performed during the test estimation process:**
-- Organize the team that would perform the estimations - best to have pervious experience
+- Organize the team that would perform the estimations - best to have previous experience
 - Break the project down into project stages and ensuing essential activities. This is when a agile team will delegate story points to any activities that need to be completed.
 - Compute the estimations based upon previous projects and experience of members
 - Prioritize the possible threats and come up with the responses to tackle those potential risks
