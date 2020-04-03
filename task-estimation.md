@@ -37,7 +37,7 @@
 
 **8) Activities which are required to be performed during the test estimation process:**
 - Organize the team that would perform the estimations - best to have pervious experience
-- Break the project down into project stages and ensuing essential activities 
+- Break the project down into project stages and ensuing essential activities. This is when a agile team will delegate story points to any activities that need to be completed.
 - Compute the estimations based upon previous projects and experience of members
 - Prioritize the possible threats and come up with the responces to tackle those potential risks
 - Review and document the key part of the work
