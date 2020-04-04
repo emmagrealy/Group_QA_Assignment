@@ -24,12 +24,7 @@ Human Resources:    | Factors such as the knowledge and developer experience of 
 **_Planning techniques_** are essential for Test Estimation. A template pattern can be used to guarantee requirements and other aspects of the project are met. 
 
 
-**Techniques for Estimations** |**Explanation**
------------- | -------------
- **Test Point Estimation** |  Here, we deconstruct the project into its very basic elementary components and estimate time for each of them. 
-**Use-Case Point estimation:** |  Estimation on the use cases where the unadjusted actor weights and unadjusted use case weights are used to determine the software testing estimation. 
- **Functional point analysis:**    |  This method consists of assigning each functional point a weighted number based on difficulty. Ranking each from 1-5, with 1 (simple), 3 (medium), or 5 (complex).  
- **Delphi method:**    | To use this technique, you carry out surveys from QA specialists to determine an average time estimation for each task.
+![Techniques](Techinques.png)
  
  
 
