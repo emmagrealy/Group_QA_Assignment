@@ -5,6 +5,8 @@
 ## Steps Involved
 
 ![StepsInvoled](task-estimation-step.png)
+
+
   In an Agile environment the Epic would be broken into User Stories which would then be estimated into points and assigned to a team member.  
 
 ## What to Estimate
@@ -13,8 +15,8 @@
 
  What to Estimate: | Explanation: 
 -------------- | -------------
-Resources:  |  Projects need resources in order to complete the given task. Such as, equipment, funding or anything that you need in order to complete the task defined. Must also take in the availability of these resources during the time period.
-Time:  | This is the main primary resource. Every task works towards a deadline. Factors including frontend/ backend difficulty, human skills, deployment difficulty and requirement specification should be considered in order to reduce and factor time in for the unknowns when trying to accurately estimate the time for a task.
+Resources:  |  Projects need resources in order to complete the given task. Such as, equipment, funding or anything that you need in order to complete the task defined.
+Time:  | Every task works towards a deadline. Factors including frontend/ backend difficulty, human skills, deployment difficulty and requirement specification should be considered in order to reduce and factor time in for the unknowns when trying to accurately estimate the time for a task.
 Cost:    | Projects Budget - The financial commitment necessary for completing a project successfully, after taking all factors into account. 
 Human Resources:    | Factors such as the knowledge and developer experience of team members, is crucial to take into consideration.
 
@@ -36,13 +38,13 @@ Human Resources:    | Factors such as the knowledge and developer experience of 
 **1) Insights gathered from past experience:** It is good practice to spend some time recalling past projects with comparable challenges to the current project you are working on. 
 
 
-**2) The available documents or artifacts:** The test management repository tools are very helpful in these situations as they store requirement and clarification documents. These documents define the scope of the project. 
+**2) The available documents or artifacts:** The test management repository tools are very helpful, these documents define the scope of the project. 
 
 
-**3) Assumptions about the type of work:** Having previous experience with similar projects helps make predictions about the project. This is why hiring experienced professionals is important. 
+**3) Assumptions about the type of work:** Having previous experience with similar projects helps make predictions about the project, hiring experienced professionals is important. 
  
 
-**4) Calculation of potential risks:** The testing team also needs to prepare for potential risks and threats which may arise in the future. This follows on from making assumptions about the type of work you are doing. 
+**4) Calculation of potential risks:** The testing team also needs to prepare for potential risks which may arise in the future. This follows on from making assumptions about the type of work you are doing. 
 
 
 **5) Determining whether the documents have been baselined:** The team also needs to make a decision if the requirements for the project have been baselined. If the documents are not baselined then it is crucial to determine the frequency of the changes. 
@@ -56,38 +58,15 @@ Human Resources:    | Factors such as the knowledge and developer experience of 
 
 **8) Activities which are required to be performed during the test estimation process:** 
 
-- Organize the team that would perform the estimations - best to have previous experience. 
+![Activities](OrganizeTeam.png)
 
-- Break the project down into project stages and their essential activities. This is when an Agile team would delegate story points to user stories that need to be completed. 
-
-- Compute the estimations based upon previous projects and experience of members. 
-
-- Prioritize the possible threats and come up with the responses to tackle those potential risks. 
-
-- Review and document the key part of the work. 
-
-- Submit the work to the relevant stakeholders. 
 
 # Testing Tasks
 **_Testing Tasks_**  Firstly involves research of the project, members through and analyse the project documentation. Allowing the team to get a good overview of the project and discuss and resolve and questions or problems that may arise. After, we can the move on into the flow of testing, this is done in various ways to ensure that there is an adherent flow to the development and logic surrounding the tests that are being written.
 
 **1) Write a test Plan**
 
-***Analysis of products***: Assists the users to understand the product that the tests are being developed for. EG: Who uses the product ?, What problem does the product solve ?
-
-***Design a test strategy***: defining two main points crucial to test development, the Testing objectives and the determination off the costs and efforts needed.
-
-***Define Test Objective***: defines the overall direction and goal for the tests, this helps keep the tests focused to the core functionality of the product.
-
-***Define Test Criteria***: defines the rules that the tests are based upon, these rules can either be Suspension based or Exit based.
-
-***Resource Planning***: provides a comprehensive summary of the resources that would be needed to complete the project.
-
-***Plan Test Environment***: a testing environment is the setup of how the test will be conducted, along with how the test will be executed.
-
-***Schedule & Estimation***: in this step we define when we think the tasks and tests will be completed, this helps to define a road-map for the testing development process.
-
-***Determine Test Deliverables***: finally here we list all of the documents and associated test that have been developed in order to help encourage maintainability and readability.
+![Test Plan](TestPlan.png)
 
 **2) Conducting and evaluating tests**
 
@@ -107,5 +86,7 @@ Once fixes have been made, a root cause analysis must be performed. This analy
 
 ## Resources
 - https://www.softwaretestinghelp.com/agile-estimation-techniques/ 
+- https://www.softwaretestinghelp.com/software-test-estimation-how-to-estimate-testing-time-accurately/
 - https://www.guru99.com/an-expert-view-on-test-estimation.html 
 - https://fortegrp.com/how-to-estimate-testing-time/
+- https://medium.com/globalluxsoft/time-estimation-in-software-development-a4a495c8eb6c
